@@ -5,7 +5,7 @@ resources:
 - service.yaml
 - route.yaml
 images:
-- name: ghcr.io/KubeHatesMe/edu12-frontend
-  newTag: "20230326152802"
+#- name: ghcr.io/KubeHatesMe/edu12-frontend
+#  newTag: "20230326152802"
 - name: ghcr.io/kubehatesme/edu12-frontend
   newTag: "20230327080417"
