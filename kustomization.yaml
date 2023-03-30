@@ -7,7 +7,7 @@ resources:
 #- name: ghcr.io/KubeHatesMe/edu12-frontend
 #  newTag: "20230326152802"
 images:
-- name: ghcr.io/kubehatesme/edu12-frontend
-  newTag: "20230327080417"
+#- name: ghcr.io/kubehatesme/edu12-frontend
+#  newTag: "20230327080417"
 - name: ghcr.io/kubehatesme/edu12-frontend
   newTag: "20230330073414"
