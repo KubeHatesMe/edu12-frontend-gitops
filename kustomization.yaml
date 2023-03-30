@@ -6,8 +6,8 @@ resources:
 - route.yaml
 #- name: ghcr.io/KubeHatesMe/edu12-frontend
 #  newTag: "20230326152802"
-images:
 #- name: ghcr.io/kubehatesme/edu12-frontend
 #  newTag: "20230327080417"
+images:
 - name: ghcr.io/kubehatesme/edu12-frontend
-  newTag: "20230330073414"
+  newTag: "20230330080647"
